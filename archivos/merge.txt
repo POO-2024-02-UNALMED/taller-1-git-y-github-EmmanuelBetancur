@@ -1,0 +1,1 @@
+Git esta diseñado para administrar y listar archivos, por eso las carpetas vacias no son contadas en un commit.
